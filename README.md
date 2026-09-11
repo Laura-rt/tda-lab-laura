@@ -2,7 +2,7 @@
 
 **2ºB de Bachillerato · Curso 2026-2027**
 
-Esto es mi tabajo de TDA de 2º de Bachilerato
+Esto es mi trabajo de TDA de 2º de Bachilerato
 
 ---
 
