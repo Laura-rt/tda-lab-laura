@@ -2,16 +2,9 @@
 
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 16/09·Mis Aficiones
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Mis aficiones no son hacer algún deporte, sino que es ver series y pelis. En mis tiempos libre, por semana, me la paso viendo series y pelis, me gustan las series de muchas temporada
 
-```
-### Título del tema — fecha
 
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+Buscando en el GitHub he encontrado un programa en el que se pueden ver datos sobre todas las temporadas de Formula 1: https://github.com/toUpperCase78/formula1-datasets 
