@@ -4,7 +4,7 @@
 
 ### 16/09·Mis Aficiones
 
-Mis aficiones no son hacer algún deporte, sino que es ver series y pelis. En mis tiempos libre, por semana, me la paso viendo series y pelis, veo seria de todo tipo de temas, me gustan las series de muchas temporada, y 
+Mis aficiones no son hacer algún deporte, sino que es ver series y pelis. En mis tiempos libre, por semana, veo series y pelis. Veo seria de todo tipo de temas y me gustan las series de muchas temporada; también me gusta ver peliculas, de todo tipo de temas, pero sobre todo las de ciencia ficción. También me gusta ver la formula 1, los fines de semana, solo que no todos, solo los que hay carreras, y esas son mis aficiones.
 
 
 Buscando en el GitHub he encontrado un programa en el que se pueden ver datos sobre todas las temporadas de Formula 1: https://github.com/toUpperCase78/formula1-datasets 
