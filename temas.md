@@ -18,7 +18,6 @@ Studio Ghibli ha sido galardonado con el Premio Princesa de Asturias 2026, a la 
 
 
 <img width="960" height="497" alt="image" src="https://github.com/user-attachments/assets/3442edf6-3414-44e0-8da5-e8b028d9713f" />
-<img width="960" height="411" alt="image" src="https://github.com/user-attachments/assets/f9b87237-9428-4df6-b1fe-b57c2c069683" />
 
 
 
