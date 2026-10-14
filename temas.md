@@ -29,5 +29,5 @@ Esta es la pagina oficial de los premios princesa de Asturias, en ella encontrar
 
 
 
-<img width="960" height="1379" alt="image" src="https://github.com/user-attachments/assets/553a66a9-5d25-46f8-a901-6e34eec0e761" />
+<img width="880" height="1200" alt="image" src="https://github.com/user-attachments/assets/553a66a9-5d25-46f8-a901-6e34eec0e761" />
 
