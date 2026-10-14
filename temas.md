@@ -17,7 +17,7 @@ Buscando en el GitHub he encontrado un programa en el que se pueden ver datos so
 Studio Ghibli ha sido galardonado con el Premio Princesa de Asturias 2026, a la comunicación y humanidades. El Studio Ghibli, es uno de los estudios más importantes de la industria de la animación, destaca por sus historias que siempre están llenas de sensibilidad, fantasía y mensajes ecológicos, con esto a transmitido a miles de personas la empatía y el respeto de sus obras. Según el acta del jurado, le premian "por haber transformado excepcionalmente la creatividad en conocimiento y comunicación".
 Yo elegí a este premiado, porque desde siempre me han gustado mucho sus obras, sus peliculas, ya que sus historias son muy bonitas y cuando las ves una vez nunca las olvidas, y además por mucho que las veas varias veces siempre te conmueven.
 
-<img width="960" height="497" alt="image" src="https://github.com/user-attachments/assets/3442edf6-3414-44e0-8da5-e8b028d9713f" />
+<img width="900" height="490" alt="image" src="https://github.com/user-attachments/assets/3442edf6-3414-44e0-8da5-e8b028d9713f" />
 
 
 
