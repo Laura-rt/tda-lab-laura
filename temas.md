@@ -22,3 +22,12 @@ Yo elegí a este premiado, porque desde siempre me han gustado mucho sus obras, 
 
 
 Esta es la pagina oficial de los premios princesa de Asturias, en ella encontraras la explicación entera del jurado, de porque escogieron a Studio Ghibli: [Studio Ghibli](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-studio-ghibli/?texto=acta)
+
+
+
+## 14/10·Día de Ada Lovelace
+
+
+
+<img width="960" height="1379" alt="image" src="https://github.com/user-attachments/assets/553a66a9-5d25-46f8-a901-6e34eec0e761" />
+
