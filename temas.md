@@ -27,6 +27,7 @@ Esta es la pagina oficial de los premios princesa de Asturias, en ella encontrar
 
 ## 14/10·Día de Ada Lovelace
 
+Ada Lovelace fue una matemática británica del siglo XIX, hija del poeta Lord Byron. Es considerada la primera programadora de la historia porque escribió un algoritmo para la máquina analítica de Charles Babbage, un invento que nunca llegó a construirse. Por eso, cada segundo martes de octubre se celebra su día desde 2009, para dar visibilidad a las mujeres en ciencia y tecnología.
 
 
 <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/553a66a9-5d25-46f8-a901-6e34eec0e761" />
